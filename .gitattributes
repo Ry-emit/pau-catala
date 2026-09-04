@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+*.html   text
+*.md     text
+*.css    text
+*.js     text
+
+*.jpg    binary
+*.jpeg   binary
+*.png    binary
+*.webp   binary
+*.mp4    binary
+*.mov    binary
